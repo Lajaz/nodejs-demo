@@ -1,1 +1,1 @@
-var math1 = require("./libs/math1");
+var math1 = require("./lib/math1");

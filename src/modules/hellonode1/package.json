@@ -2,6 +2,13 @@
     "name": "hellonode1",
     "version": "1.0.0",
     "description": "demo",
+    "maintainers": [{"name": "Po","email": "robinr.yan@yahoo.com","url": "https://www.github.com"}],
+    "keywords": [],
+    "repository": {},
+    "bugs": {},
+    "homepage": "",
+    "contributors": [],
+    "engines": {"node": "*"},
     "main": "main.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
